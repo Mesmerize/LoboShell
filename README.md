@@ -10,5 +10,7 @@ with those commands.
 
 Roles:
 Phi - Waits on Erika to implement parsing / executing functionality with simple command and then adds logic for other conditions
+
 Erika - Going to be working on parsing simple commands
+
 Brandon - Open

@@ -17,7 +17,7 @@ int main()
     char* lineWords[MAX_LINE_WORDS + 1];
 
     // Shell Prompt
-    printf("Welcome to SegFault's simple shell\npress CTRL + D to exit\n>");
+    // printf("Welcome to SegFault's simple shell\npress CTRL + D to exit\n>");
 
     // Loop until user hits Ctrl-D (end of input)
     // or some other input error occurs

@@ -6,6 +6,7 @@
 
 #define INPUT_REDIRECT '<'
 #define OUTPUT_REDIRECT '>'
+#define OUTPUT_APPEND ">>"
 #define PIPE '|'
 
 #endif

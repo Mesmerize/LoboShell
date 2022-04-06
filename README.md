@@ -2,7 +2,7 @@
 
 CS 450 Project 2 - Lobo Shell
 
----- Description ---- 
+---- DESCRIPTION ---- 
 
 This project replicates a linux shell. 
 It accepts commands and executes functions associated 
